@@ -1,0 +1,6 @@
+be_port = 29063
+webserver_port = 28043
+heartbeat_service_port = 29053
+brpc_port = 28063
+priority_networks = 127.0.0.1/24
+enable_https = false
